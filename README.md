@@ -122,6 +122,7 @@ Pass the path to the .graphml file to the below line in visualize-graphml.py:
 
 - Original GraphRAG repository by Microsoft: [GraphRAG](https://github.com/microsoft/graphrag)
 - Ollama: [Ollama](https://ollama.com/)
+- Ggraphrag-local-ollama: https://github.com/TheAiSingularity/graphrag-local-ollama
 
 ---
 
